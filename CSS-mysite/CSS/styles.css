@@ -27,6 +27,12 @@ h3 {
 p {
     line-height: 2;
   }
+  hr {
+    border: dotted #EAF6F6 6px;
+    border-bottom: none;
+    width: 4%;
+    margin: 100px auto;
+  }
   
 div {
     
@@ -55,7 +61,7 @@ div {
 .skill-row {
     width: 50%;
     margin: 100px auto 100px auto;
-    text-align: left;
+    text-align: center;
     padding-bottom: 10px;
   }
   .intro {
