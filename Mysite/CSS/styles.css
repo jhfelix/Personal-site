@@ -3,7 +3,7 @@ body {
     margin: 0;
     text-align: center;
     font-family: 'Roboto', sans-serif;
-    background-color: #cee6b4;
+    background-color: #d3e0ea;
 }
 
 h1 {
@@ -56,6 +56,7 @@ div {
 .profile {
     width: 150px;
     padding-bottom: 50px;
+    float: center;
 }
 
 .skill-row {
@@ -79,7 +80,7 @@ div {
     padding: 20px 0;
   }
   a{
-    color: #11999E;
+    color: #276678;
     font-family: 'Roboto', sans-serif;
     margin: 10px 20px;
     text-decoration: none;
@@ -90,17 +91,17 @@ div {
   }
   
   .btn {
-    background: #11cdd4;
-    background-image: -webkit-linear-gradient(top, #11cdd4, #11999e);
-    background-image: -moz-linear-gradient(top, #11cdd4, #11999e);
-    background-image: -ms-linear-gradient(top, #11cdd4, #11999e);
-    background-image: -o-linear-gradient(top, #11cdd4, #11999e);
-    background-image: linear-gradient(to bottom, #11cdd4, #11999e);
+    background: #1687a7;
+    background-image: -webkit-linear-gradient(top,#1687a7, #1687a7);
+    background-image: -moz-linear-gradient(top,#1687a7,#1687a7);
+    background-image: -ms-linear-gradient(top, #1687a7, #1687a7);
+    background-image: -o-linear-gradient(top,#1687a7,#1687a7);
+    background-image: linear-gradient(to bottom, #1687a7, #1687a7);
     -webkit-border-radius: 8;
     -moz-border-radius: 8;
     border-radius: 8px;
     font-family: 'Roboto', 'sans-serif';
-    color: #ffffff;
+    color: #EAF6F6;
     font-size: 20px;
     padding: 10px 20px 10px 20px;
     text-decoration: none;
