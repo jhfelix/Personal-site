@@ -26,6 +26,8 @@ h3 {
 }
 p {
     line-height: 2;
+   -webkit-margin-before: 1em;
+   -webkit-margin-after: 1em;
   }
   hr {
     border: dotted #EAF6F6 6px;
@@ -49,13 +51,19 @@ div {
 }
 
 
-.bottom-container {
+.bottom-container { 
     padding: 50px 0 20px;
+}
+.logo {
+  width: 125px;
+  padding-top: 60px;
+  float: center;  
+
 }
     
 .profile {
     width: 150px;
-    padding-bottom: 50px;
+    padding-top: 60px;
     float: center;
 }
 
@@ -69,7 +77,9 @@ div {
     width: 30%;
     margin: auto;
   }
+  
   .contact-message {
+    padding-top: 10px;
     width: 40%;
     margin: 40px auto 60px;
   }
